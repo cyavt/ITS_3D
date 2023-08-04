@@ -14,3 +14,7 @@
 + Sửa chữa lỗi đầu phun cho máy in 3D
 + In thử vật mẫu
 
+>Phần mềm:
++ STM32CubeIDE
++ Hercules
++ STM32 ST-Link Utility
